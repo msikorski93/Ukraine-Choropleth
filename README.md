@@ -3,5 +3,5 @@ This short and simple repository contains a geospatial data visualization of per
 
 ![screen](https://user-images.githubusercontent.com/45270023/169711297-edc92085-1bee-43eb-b383-794a1d3965d9.jpg)
 
-For interactive visualizations, please use nbviewer link:
+For interactive visualizations, please use nbviewer link:<br>
 https://nbviewer.org/github/msikorski93/Ukraine-Choropleth/blob/main/ukraine_interactive-notebook.ipynb
